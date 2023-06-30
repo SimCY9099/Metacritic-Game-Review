@@ -21,14 +21,14 @@
 - The dataset has been enhanced with a new column called 'major_type' to facilitate easier analysis and grouping of games based on their major genre or type. This column aims to provide a simplified categorization of games by consolidating the multiple tags or genres associated with each game into a single, more general category.
 
 ## Analysis:
-# 1. The Growing Trend in the Gaming Industry
+### 1. The Growing Trend in the Gaming Industry
 - Analyzed the distribution of games released over the years to understand the trend and identify the latest period with the highest number of releases. This highlights the continuous growth and expansion of the gaming industry.
 
-# 2. Game Rating by Year
+### 2. Game Rating by Year
 - The analysis of game ratings by year provides insights into the evolution of the gaming industry in terms of game quality and player satisfaction. It helps identify whether the overall quality of games has improved, remained consistent, or fluctuated over time.
 
-# 3. Review Rating Vs Positivity Ratio
+### 3. Review Rating Vs Positivity Ratio
 - By analyzing the rating vs. positivity ratio, we can gain insights into how user sentiment and positive reviews align with the overall ratings given to games. This analysis can help determine whether higher positivity ratios contribute to higher ratings, indicating a stronger correlation between positive user feedback and the perceived quality of games.
 
-# 4. Top 10 Excellent Genre
+### 4. Top 10 Excellent Genre
 - By identifying the top 10 excellent genres, we can gain insights into the genres that have consistently received high ratings in the excellent category. This analysis highlights the genres that have resonated well with users and are perceived as outstanding in terms of gameplay, quality, and overall experience.

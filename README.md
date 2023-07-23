@@ -1,7 +1,7 @@
 # Project Title: Metacritic Game Review Data Analyst Project
 
 ## Project Purpose: 
-### The purpose of this project was to analyze the Metacritic Game Review to gain insights into the game rating along the year, game released distribution by each platform and the correlation between useer and reviewer ratings.
+### The purpose of this project was to analyze the Metacritic Game Review to gain insights into the game rating among user and reviewer, game releaseed trend across the years and the popular platform to game or puublish the games.
  
 ## Data: 
 ### The data for this project was obtained from the Kaggle. It contains all games that been reviewed since 1995 to 2021. (https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic)

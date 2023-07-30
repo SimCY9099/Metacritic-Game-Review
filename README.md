@@ -7,7 +7,7 @@
 ### The data for this project was obtained from the Kaggle. It contains all games that been reviewed since 1995 to 2021. (https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic)
  
 ## Data Cleaning and Wrangling: 
-### The data was cleanedby remove duplicates and replace the "to be determined" score value in user review has been replaced to Metacritic reviewer ratings.
+### The data was cleaned by remove duplicates and replace the "to be determined" score value in user review has been replaced to Metacritic reviewer ratings.
 
 ## Exploratory Data Analysis: 
 ### The data was explored using visualizations to identify trends and patterns. Included box box scatter plot to dig out the median, min, max of distributed game for each platform. Bar chart and line chart are includeed in this project as well.
